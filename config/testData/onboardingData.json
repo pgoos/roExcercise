@@ -1,0 +1,16 @@
+{
+    "contact": {
+        "email": "testcafe.roExcercise@gmail.com",
+        "firstName": "Yoanna",
+        "lastName": "D'arc",
+        "password": "password1234"
+    },
+    "questions": {
+        "basics": {
+            "biologicalSex": "female",
+            "birthDate": "10/23/1978",
+            "zipCode": "94203"
+        },
+        "pregnant": "yes"
+    }
+}
